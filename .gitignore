@@ -1,0 +1,8 @@
+# ignore data files but keep folders paths
+*.csv
+*.txt
+*.mp3
+*.mp4
+*.jpg
+
+*.ipynb_checkpoints

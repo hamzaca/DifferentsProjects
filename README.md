@@ -1,2 +1,7 @@
-# NLP-Projects
-different NLP personnal projects 
+# My Projects
+
+## NLP 
+- Natural Language Processing with Disaster Tweets
+
+## Recommendation
+- Recommendation system for Movies : Collabrative filtering
