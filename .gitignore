@@ -6,3 +6,6 @@
 *.jpg
 
 *.ipynb_checkpoints
+
+/.vscode
+/LLMs_ENV
